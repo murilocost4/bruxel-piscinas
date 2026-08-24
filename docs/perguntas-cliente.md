@@ -12,7 +12,7 @@ Antes de desenvolver qualquer fluxo de perguntas e respostas, o grupo levanta ju
 
 1. **[Bloco 1]** Quais problemas vocês têm hoje que precisariam de um sistema para resolver?
 2. **[Bloco 2]** Quem hoje sabe montar essa recomendação técnica — é só uma pessoa, é qualquer funcionário, é só o dono?
-3. **[Bloco 4]** Me conta alguma vez que uma recomendação de produto deu errado — o que aconteceu?
+3. **[Bloco 4]** Me conta a última vez que uma recomendação de produto deu errado — o que aconteceu?
 
 ## Perguntas por bloco
 
@@ -30,14 +30,16 @@ Antes de desenvolver qualquer fluxo de perguntas e respostas, o grupo levanta ju
 ### 3. O que já existe
 
 - Vocês têm hoje uma lista organizada dos produtos com preço, estoque e instruções de uso, ou isso está na cabeça de alguém ou no papel?
-- Existe algum sistema, planilha ou caderno onde vocês registram vendas ou clientes hoje?
+- 🔧 Consegue nos passar essa lista depois da conversa — mesmo que seja foto do caderno, print ou planilha? A gente usa como base real pra montar o cadastro de produtos do sistema.
+- Existe algum sistema, planilha ou caderno onde vocês registram vendas ou clientes hoje? Daria pra compartilhar uma amostra (sem dado sensível) pra gente entender o formato?
 - Do que já foi desenhado no projeto do Piscinator e da loja virtual, o que vocês já validaram como certo e o que ainda está em aberto pra vocês?
 
 ### 4. O que dá errado
 
-- ⭐ Me conta alguma vez que uma recomendação de produto deu errado — o que aconteceu?
+- ⭐ Me conta a última vez que uma recomendação de produto deu errado — o que aconteceu?
 - Quais produtos não podem ser misturados ou usados junto, e o que acontece se forem?
 - A dose de produto muda de acordo com o tamanho da piscina? Como vocês calculam isso hoje?
+- As piscinas que vocês atendem têm um volume parecido entre si, ou varia muito de cliente pra cliente? Isso importa pro sistema saber pedir (ou não) o tamanho da piscina antes de recomendar.
 - Existe alguma situação em que vocês diriam "isso aqui não dá pra resolver por pergunta e resposta, precisa vir alguém olhar"?
 
 ### 5. O que seria sucesso
@@ -50,5 +52,9 @@ Antes de desenvolver qualquer fluxo de perguntas e respostas, o grupo levanta ju
 - Tem algum prazo em mente pra ter alguma coisa no ar, tipo antes do verão?
 - Tem informação de cliente ou de produto que vocês não querem que fique pública no site?
 - Tem alguma parte do que já foi desenhado (Piscinator, loja virtual, site) que vocês não veem como prioridade agora, ou já mudaram de ideia?
+
+## Não esquecer (pedidos práticos, não são "perguntas de entendimento")
+
+Os itens marcados com 🔧 acima são pedidos de dado concreto, melhor no fim da conversa, depois de já ter entendido o problema. Sem eles não tem como popular o sistema com informação real:
 
 ---
