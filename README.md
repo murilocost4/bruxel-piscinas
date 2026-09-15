@@ -27,3 +27,5 @@ https://github.com/users/murilocost4/projects/2/views/1
 - (https://www.canva.com/design/DAHMBOB43LY/CEH5WDQILZEOxOsbnTVb8A/edit) - Canva com explicação detalhada da identidade visual e informações disponibilizadas pela equipe de design.
 
 - [`docs/perguntas-cliente.md`](docs/perguntas-cliente.md) — perguntas para a conversa inicial com o cliente, por bloco, com hipótese e ideia de caminho.
+
+- [`docs/PRD.md`](docs/PRD.md) — PRD v1: problema, solução, requisitos, histórias de usuário, casos de uso, modelo de dados e decisões de implementação, com base nas respostas reais do briefing enviado ao cliente.
